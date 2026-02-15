@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="Payment.Console/Payment.Console.csproj" Id="cab14e15-8664-4020-adf5-6afcb5c8dfaa" />
+  <Project Path="Payment.Core/Payment.Core.csproj" Id="86d7284f-09f4-4d8c-887f-b65f61a24363" />
+  <Project Path="Payment.Gateways/Payment.Gateways.csproj" Id="3c8a4a8f-692f-4b01-9182-f464bde59605" />
+  <Project Path="Payment.Tests/Payment.Tests.csproj" Id="f9601146-bdd3-4f29-b621-b4aa44fd0ded" />
 </Solution>
