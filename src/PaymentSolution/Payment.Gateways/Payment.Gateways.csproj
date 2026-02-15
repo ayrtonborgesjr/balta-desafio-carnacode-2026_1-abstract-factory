@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MercadoPago\" />
-    <Folder Include="Stripe\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Payment.Core\Payment.Core.csproj" />
   </ItemGroup>
 
